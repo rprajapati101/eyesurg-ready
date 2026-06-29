@@ -61,15 +61,13 @@ EyeSurg Ready demonstrates what a purpose-built administrative coordination dash
 
 ## Screenshots
 
-> *(Add screenshots here after running the app)*
-
 | Dashboard | Patient Board | Patient Detail |
 |-----------|---------------|----------------|
-| *(screenshot)* | *(screenshot)* | *(screenshot)* |
+| ![Dashboard](public/screenshots/screenshot-dashboard.png) | ![Patient Board](public/screenshots/screenshot-patients.png) | ![Patient Detail](public/screenshots/screenshot-detail.png) |
 
 | Post-Op Tracker | Patient Education | About |
 |-----------------|-------------------|-------|
-| *(screenshot)* | *(screenshot)* | *(screenshot)* |
+| ![Post-Op Tracker](public/screenshots/screenshot-postop.png) | ![Patient Education](public/screenshots/screenshot-education.png) | ![About](public/screenshots/screenshot-about.png) |
 
 ---
 
